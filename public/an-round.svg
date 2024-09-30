@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1024 1024"
+   width="1024"
+   height="1024"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="an-round.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.32647698"
+     inkscape:cx="344.58785"
+     inkscape:cy="552.87206"
+     inkscape:window-width="1512"
+     inkscape:window-height="854"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showgrid="false" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="grad1"
+       x1="0%"
+       y1="0%"
+       x2="100%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color: #4CAF50; stop-opacity: 0.8"
+         id="stop1" />
+      <stop
+         offset="100%"
+         style="stop-color: #2196F3; stop-opacity: 0.8"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#grad1"
+       id="linearGradient1"
+       x1="211.94525"
+       y1="96.364433"
+       x2="445.08502"
+       y2="329.5042"
+       gradientTransform="matrix(4.3922151,0,0,4.3922155,-930.90913,-423.25334)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <!-- Changed circle to rectangle for background -->
+  <circle
+     style="fill:url(#linearGradient1);stroke-width:4.39222"
+     id="path3"
+     cx="512"
+     cy="512"
+     r="512" />
+  <!-- Scaled up the triangle path -->
+  <path
+     d="M 358.4 768 L 512 256 L 665.6 768 Z"
+     fill="white"
+     fill-opacity="0.8"
+     id="path2" />
+  <!-- Scaled up the circle -->
+  <path
+     id="circle2"
+     style="fill:none;stroke:#ffffff;stroke-width:25.6;stroke-opacity:0.8"
+     d="M 819.20001,512 A 307.20001,307.20001 0 0 1 512,819.20001 307.20001,307.20001 0 0 1 204.79999,512 307.20001,307.20001 0 0 1 512,204.79999 307.20001,307.20001 0 0 1 819.20001,512 Z" />
+  <!-- Scaled up the text -->
+  <path
+     d="m 387.26875,865.66251 49.2625,-128.275 h 18.2875 l 52.5,128.275 h -19.3375 l -14.9625,-38.85 h -53.6375 l -14.0875,38.85 z m 37.0125,-52.675 h 43.4875 l -13.3875,-35.525 q -6.125,-16.1875 -9.1,-26.6 -2.45,12.3375 -6.9125,24.5 z m 96.425,52.675 v -128.275 h 17.4125 l 67.375,100.7125 v -100.7125 h 16.275 v 128.275 h -17.4125 l -67.375,-100.8 v 100.8 z"
+     id="text2"
+     style="font-size:179.2px;font-family:Arial, sans-serif;dominant-baseline:middle;text-anchor:middle;fill:#ffffff;fill-opacity:0.8"
+     aria-label="AN" />
+</svg>
